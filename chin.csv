@@ -1,0 +1,200 @@
+ID,Name,Designation,HEC_Approved_PHD_Supervisor,Highest_Education,Email,Department,Extension,ImageURL
+0,Dr. Gulfam Haider,Assistant Professor & Incharge,False,PhD (Econometrics),haider.gulfam@nu.edu.pk,FAST School of Management,250,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/gul-235x300.jpg
+1,Dr. Muhammad Rafiq,Associate Professor,False,PhD Business Administration,,FAST School of Management,258,https://cfd.nu.edu.pk/wp-content/uploads/2024/08/Dr-M-Rafiq-1-235x300.jpg
+2,Dr. Misbah Hayat,Assistant Professor,False,N/A,misbah.hayat@nu.edu.pk,FAST School of Management,262,https://cfd.nu.edu.pk/wp-content/uploads/2024/08/Ms-Misbah-scaled-e1724412304464-235x300.jpg
+3,Dr. Saifullah,Assistant Professor,False,N/A,drsaif.ullah@nu.edu.pk,FAST School of Management,264,https://cfd.nu.edu.pk/wp-content/uploads/2024/08/Dr-Saif-Ullah-scaled-e1724412630605-235x300.jpg
+4,Mr. Syed Zeeshan,Assistant Professor,False,M.S(Marketing),zeeshan.syed@nu.edu.pk,FAST School of Management,266,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/9158-235x300.jpg
+5,Mr. Ahmad Salah,Lecturer,False,Passed CFA Level 1 Exam,ahmad.salah@nu.edu.pk,FAST School of Management,256,https://cfd.nu.edu.pk/wp-content/uploads/2023/08/Passport-Size-Picture-1-e1693468701408-235x300.jpg
+6,Ms. Amna Babar,Lecturer,False,MS,amna.Tirmizey@nu.edu.pk,FAST School of Management,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2023/08/Passport_Size_Picture-1-e1712131003936.jpg
+7,Mr. Hafiz Muhammad,Lecturer,False,MBA,Zeeshan.raza@nu.edu.pk,FAST School of Management,265,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/9253-235x300.jpg
+8,Mr. Muhammad Nasif,Lecturer,False,M.S(Finance),m.nasif@nu.edu.pk,FAST School of Management,261,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/Muhammad-Nasif-scaled-e1646721190788-235x300.jpg
+9,Dr. Qamar uz,Assistant Professor & Incharge,True,PhD,qamar.zaman@nu.edu.pk,Department of Software Engineering,127,https://cfd.nu.edu.pk/wp-content/uploads/2022/08/Dr-Qamar-UZ-Zaman-2-e1741668616550-235x300.jpg
+10,Dr. Affan Rauf,Assistant Professor,False,Ph.D. (Computer Science),affan.rauf@nu.edu.pk,Department of Software Engineering,350,https://cfd.nu.edu.pk/wp-content/uploads/2020/05/5906-e1646889042179-235x300.jpg
+11,Dr. Amer Rasheed,Assistant Professor,False,N/A,amer.rasheed@nu.edu.pk,Department of Software Engineering,190,https://cfd.nu.edu.pk/wp-content/uploads/2025/01/IMG_1020-scaled-e1737090651921-235x300.jpg
+12,Dr. Shamsa Abid,Assistant Professor,False,N/A,shamsa.abid@nu.edu.pk,Department of Software Engineering,124,https://cfd.nu.edu.pk/wp-content/uploads/2024/11/IMG_1018-scaled-e1736331916619-235x300.jpg
+13,Dr. Shanza Abbas,Assistant Professor,False,N/A,shanza.abbas@nu.edu.pk,Department of Software Engineering,304,https://cfd.nu.edu.pk/wp-content/uploads/2023/02/Dr-Shanza-235x300.jpg
+14,Ms. Anmol Bilal,Lecturer,False,MS (Software Engineering),,Department of Software Engineering,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2020/09/5433-removebg-preview-235x300.png
+15,Mr. Awais Azam,Lecturer,False,N/A,awais.azam@nu.edu.pk,Department of Software Engineering,199,https://cfd.nu.edu.pk/wp-content/uploads/2020/03/awaisNU-235x300.jpeg
+16,Mr. Fraz Zaheer,Lecturer,False,MS Computer Science (Major: Software Engineering),fraz.zaheer@nu.edu.pk,Department of Software Engineering,180,https://cfd.nu.edu.pk/wp-content/uploads/2024/08/Picture-e1723545458946-235x300.png
+17,Mr. Jawad Khalid,Lecturer,False,MS,jawad.khalid@nu.edu.pk,Department of Software Engineering,286,https://cfd.nu.edu.pk/wp-content/uploads/2023/09/6400-1-scaled-e1694493735260-235x300.jpg
+18,Ms. Kanwal Naz,Lecturer,False,N/A,kanwal.naz@nu.edu.pk,Department of Software Engineering,370,https://cfd.nu.edu.pk/wp-content/uploads/2025/01/IMG_1024-scaled-e1737451888897-235x300.jpg
+19,Ms. Naba Rahim,Lecturer,False,N/A,naba.rahim@nu.edu.pk,Department of Software Engineering,142,https://cfd.nu.edu.pk/wp-content/uploads/2025/01/IMG_1016-scaled-e1736313718628-235x300.jpg
+20,Ms. Sahar Ajmal,Lecturer,False,MS (Computer Science),sahar.ajmal@nu.edu.pk,Department of Software Engineering,196,https://cfd.nu.edu.pk/wp-content/uploads/2022/08/94edaadb-2cc8-4fc1-9e0e-c4a15aa7a4bf-1-e1724911662509-235x300.jpg
+21,Ms. Samia Aziz,Lecturer,False,MS Computer Science,samia.aziz@nu.edu.pk,Department of Software Engineering,153,https://cfd.nu.edu.pk/wp-content/uploads/2023/02/Samia_Aziz-1-removebg-preview-235x300.png
+22,Mr. Saqib Ameer,Lecturer,False,MS Computer Science,saqib.ameer@nu.edu.pk,Department of Software Engineering,199,https://cfd.nu.edu.pk/wp-content/uploads/2023/02/Saqib_Ameer-removebg-preview-235x300.png
+23,Ms. Tehreem Aslam,Lecturer,False,MS (Software Engineering),tehreem.aslam@nu.edu.pk,Department of Software Engineering,179,https://cfd.nu.edu.pk/wp-content/uploads/2020/05/5891-removebg-preview-235x300.png
+24,Mr. Umer Iqbal,Lecturer,False,MS(CS) (Bronze Medal),iqbal.umer@nu.edu.pk,Department of Software Engineering,149,https://cfd.nu.edu.pk/wp-content/uploads/2022/08/Umer-Iqbal-1-235x300.jpg
+25,Dr. Hashim Yasin,Assistant Professor & Incharge,True,Ph.D. (Computer Science),hashim.yasin@nu.edu.pk,Department Of AI & Data Science,580,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/hashim-235x300.jpg
+26,Dr. Anwar Shah,Assistant Professor,True,PhD Computer Sciences,Anwar.Shah@nu.edu.pk,Department Of AI & Data Science,118,https://cfd.nu.edu.pk/wp-content/uploads/2022/08/IMG_1381-scaled-e1660974348817-235x300.jpg
+27,Mr. Asif Ameer,Lecturer,False,MS (Computer Science),asif.ameer@nu.edu.pk,Department Of AI & Data Science,582,https://cfd.nu.edu.pk/wp-content/uploads/2020/05/Mr.-Asif-Ameer-Lecturer-235x300.jpg
+28,Mr. Hamza Yousuf,Lecturer,False,MS (Data Science),hamza.yousuf@nu.edu.pk,Department Of AI & Data Science,149,https://cfd.nu.edu.pk/wp-content/uploads/2024/10/DSC05112-235x300.jpg
+29,Mr. Muhammad Yousaf,Lecturer,False,MS (Computer Science) FAST-NUCES,muhammad.yousaf@nu.edu.pk,Department Of AI & Data Science,170,https://cfd.nu.edu.pk/wp-content/uploads/2021/09/Mr.-Yousaf-scaled-e1689926475297-235x300.jpg
+30,Ms. Rukhsana Zafar,Lecturer,False,MS Data Science,rukhsana.zafar@nu.edu.pk,Department Of AI & Data Science,370,https://cfd.nu.edu.pk/wp-content/uploads/2024/08/Ms-Rukhsana-Zafar-235x300.jpg
+31,Mr. Tahir Farooq,Lecturer,False,M.S(Computer Science),Tahir.farooq@nu.edu.pk,Department Of AI & Data Science,174,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/tahir-235x300.jpg
+32,Mr. Waseem Ahmad,Manager (Admin/HR),False,E.M.B.A.,waseem.ahmad@nu.edu.pk,Admin Office,116,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/5081-removebg-preview-e1678248290784-235x300.png
+33,Mr. Muhammad Usman Naeem,Deputy Manager (Admin),False,M. Com from University of Sargodha,usman.naeem@nu.edu.pk,Admin Office,382,https://cfd.nu.edu.pk/wp-content/uploads/2020/01/5661-scaled-e1641885462424-235x300.jpg
+34,Ms. Aysha Shafiq,Deputy Manager (Career Services),False,MS (Development Economics,aysha.shafiq@nu.edu.pk,Admin Office,194,https://cfd.nu.edu.pk/wp-content/uploads/2019/10/5721-scaled-e1646193942735-235x300.jpg
+35,Mr. M. Atif Nadeem,Assistant Manager,False,M.Ed,atif.nadeem@nu.edu.pk,Admin Office,382,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/9224-removebg-preview-235x274.png
+36,Mr. Muhammad Shahid Iqbal,Assistant Manager (Security),False,N/A,shahid.iqbal@nu.edu.pk,Admin Office,231,https://cfd.nu.edu.pk/wp-content/uploads/2021/10/6205-removebg-preview-3.png
+37,Mr. Muhammad Usman,Assistant Manager (Admin),False,MBA – Finance,Mohammad.usman@nu.edu.pk,Admin Office,104,https://cfd.nu.edu.pk/wp-content/uploads/2020/03/Muhammad-Usman-e1711535169250-235x300.jpg
+38,Mr. Naveed Ahmed,Assistant Manager (Admin),False,Bachelors(Arts),naveed.ahmed@nu.edu.pk,Admin Office,115,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/4970-removebg-preview.png
+39,Ms. Nooria Fatima,Officer (HR),False,N/A,nooria.fatima@nu.edu.pk,Admin Office,121,https://cfd.nu.edu.pk/wp-content/uploads/2023/03/6461-235x300.jpg
+40,Mr. Asad Ali,Officer,False,B.A,asad.ali@nu.edu.pk,Admin Office,117,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/Asad-Ali-e1646194419593-235x300.jpg
+41,Mr. Muhammad Khalid,Officer (Security),False,N/A,m.khalid@nu.edu.pk,Admin Office,231,https://cfd.nu.edu.pk/wp-content/uploads/2023/09/Muhammad-Khalid-scaled-e1695442510522-235x300.jpg
+42,Ms. Zunaira Ashiq,Officer (HR),False,N/A,zunaira.ashiq@nu.edu.pk,Admin Office,121,https://cfd.nu.edu.pk/wp-content/uploads/2023/03/Ms.-Zunaira-Ashiq-scaled-e1678257423897-235x300.jpg
+43,Ms. Maria Intizar,Assistant Officer,False,MPhil (English Linguistics) Riphah International University (2021),maria.intizar@nu.edu.pk,Admin Office,102,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/WhatsApp-Image-2024-09-26-at-12.32.22_e4ff9a4d-235x300.jpg
+44,Mr. Safdar Abbas,Operator,False,N/A,safdar.abbas@nu.edu.pk,Admin Office,242,https://cfd.nu.edu.pk/wp-content/uploads/2021/10/4838-removebg-preview-235x232.png
+45,Mr. Javaid Iqbal,Assistant,False,N/A,javaid.iqbal@nu.edu.pk,Admin Office,115,https://cfd.nu.edu.pk/wp-content/uploads/2022/01/WhatsApp-Image-2024-03-01-at-10.10.21-AM-235x300.jpeg
+46,Mr. Muhammad Khalid,Assistant,False,N/A,,Admin Office,100,https://cfd.nu.edu.pk/wp-content/uploads/2021/10/5282-removebg-preview-235x300.png
+47,Ms. Afshan Rani,Assistant,False,N/A,Afshan.Rani@nu.edu.pk,Admin Office,399,https://cfd.nu.edu.pk/wp-content/uploads/2023/07/IMG_5386-235x300.jpeg
+48,Mr. Ghulam Shabbir,Assistant (Hostel),False,N/A,g.shabbir@nu.edu.pk,Admin Office,382,https://cfd.nu.edu.pk/wp-content/uploads/2021/10/5588-2-scaled-e1641884155814-235x300.jpg
+49,Mr. Muhammad Naeem,"Deputy Manager (Academics, FSM)",False,M.A(Mass Communication),muhammad.naeem@nu.edu.pk,Academic Office,253,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/4859-235x300.png
+50,Mr. Muhammad Zulqarnain Ul Hassan,"Deputy Manager (Academics, SE)",False,MBA,m.zulqarnain@nu.edu.pk,Academic Office,666,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/5529-1-scaled-e1652778741155-235x300.jpg
+51,Mr. Irfan Ali,Assistant Manager (CS),False,MBA (Marketing),ali.irfan@nu.edu.pk,Academic Office,161,https://cfd.nu.edu.pk/wp-content/uploads/2021/11/6217-removebg-preview.png
+52,Ms. Meriam Chuhdary,Assistant Manager (Academics),False,M.S(Business Administration-Finance),meriam.chuhdary@nu.edu.pk,Academic Office,113,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/9226.jpg
+53,Mr. Husnain Ali,"Officer Academics, (EE)",False,N/A,husnain.ali@nu.edu.pk,Academic Office,308,https://cfd.nu.edu.pk/wp-content/uploads/2022/03/6312-235x271.jpg
+54,Mr. Mudassar Rehman,Officer (S&H),False,B.Com,mudassar.rehman@nu.edu.pk,Academic Office,271,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/9437-1-scaled-e1637817145457-235x300.jpg
+55,Mr. Muhammad Mohsin Liaquat,"Officer (Academics, CS)",False,MBA (HR),mohsin.liaquat@nu.edu.pk,Academic Office,164,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/5530-2-scaled-e1652778300814-235x300.jpg
+56,Mr. Saad Salman,Officer  (AI & DS),False,MBA,m.saad@nu.edu.pk,Academic Office,581,https://cfd.nu.edu.pk/wp-content/uploads/2020/03/5727-removebg-preview-235x300.png
+57,Mr. Sohail Afzal,"Officer (Academics, CS)",False,MS (Information Security),sohail.afzal@nu.edu.pk,Academic Office,164,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/4450-removebg-preview-235x300.png
+58,Mr. Abdul Rehman,Assistant Officer (CS),False,MS (Computer Science),rehman.a@nu.edu.pk,Academic Office,161,https://cfd.nu.edu.pk/wp-content/uploads/2022/08/IMG_8809-235x300.jpg
+59,Moeen Ejaz,Assistant (Academics),False,N/A,moeen.ejaz@nu.edu.pk,Academic Office,114,https://cfd.nu.edu.pk/wp-content/uploads/2025/02/IMG-20250226-WA0027-e1740563585273-235x300.jpg
+60,Mr. Faisal Javed,Assistant (SE),False,BA. Allama Iqbal Open University,faisal.javed@nu.edu.pk,Academic Office,241,https://cfd.nu.edu.pk/wp-content/uploads/2022/01/5189-scaled-e1641805164938-235x300.jpg
+61,Mr. Shozab Zayab Malik,Assistant (Academics),False,N/A,shozab.malik@nu.edu.pk,Academic Office,666,https://cfd.nu.edu.pk/wp-content/uploads/2023/03/6463-235x300.jpg
+62,Mr. Waleed Hasan,Assistant,False,Bachelor (Arts),Waleed.Hasan@nu.edu.pk,Academic Office,351,https://cfd.nu.edu.pk/wp-content/uploads/2023/04/Waleed-Hasan-235x300.jpg
+63,Ms. Isma Bibi,Assistant (Academics),False,N/A,isma.khan@nu.edu.pk,Academic Office,114,https://cfd.nu.edu.pk/wp-content/uploads/2023/09/WhatsApp-Image-2024-01-25-at-10.07.26-AM-235x300.jpeg
+64,Mr. M. Kashif Iqbal,Deputy Manager (Accounts),False,ACCA,kashif.iqbal@nu.edu.pk,Accounts Office,120,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/9218-1-scaled-e1641887378139-235x300.jpg
+65,Mr. Irfan Matloob Ahmad,Assistant Manager,False,MBA (Finance) form Riphah International University,irfan.matloob@nu.edu.pk,Accounts Office,343,https://cfd.nu.edu.pk/wp-content/uploads/2021/10/64987244_2697211623657339_8108513850980040704_n-removebg-preview-e1694584583462-235x300.png
+66,Mr. Muhammad Saqib Murtaza,Officer (Accounts),False,MBA,saqib.murtaza@nu.edu.pk,Accounts Office,119,https://cfd.nu.edu.pk/wp-content/uploads/2020/09/593401-235x300.jpg
+67,Mr. Ilyas Nazir,Assistant Officer (Accounts),False,"➢ B. Com (Hons.) – (2012 – 2016)
+University of Sargodha",ilyas.nazir@nu.edu.pk,Accounts Office,119,https://cfd.nu.edu.pk/wp-content/uploads/2021/10/IMG_7393-235x300.jpg
+68,Mr. Muhammad Sadiq,Assistant Manager,False,BA (Arts),muhammad.sadiq@nu.edu.pk,Engineering Labs,248,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/5142-1-scaled-e1641882096311-235x300.jpg
+69,Mr. Adnan Mehboob,Officer (EE),False,B-Tech ( Hons ) Electronics,adnan.mehboob@nu.edu.pk,Engineering Labs,141,https://cfd.nu.edu.pk/wp-content/uploads/2020/03/9208-scaled-e1641812984812-235x300.jpg
+70,Mr. Faheem Sajid,Assistant Officer,False,N/A,fahim.sajid@nu.edu.pk,Engineering Labs,288,https://cfd.nu.edu.pk/wp-content/uploads/2021/03/9207-1-235x300.jpg
+71,Mr. Abdul Rehman,Senior Assistant Lab,False,BA. Allama Iqbal Open University,m.abdulrehman@nu.edu.pk,Engineering Labs,214,https://cfd.nu.edu.pk/wp-content/uploads/2020/03/5397-scaled-e1641813226228-235x300.jpg
+72,Mr. Farooq Ahmad,Senior Assistant Lab,False,DAE(Electrical),m.farooqahmad@nu.edu.pk,Engineering Labs,224,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/5398-e1641880011445-235x300.jpeg
+73,Mr. Salman Hassan,Senior Lab Technician,False,DAE (Electronics),salman.hassan@nu.edu.pk,Engineering Labs,228,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/5143-1-scaled-e1641882558468-235x300.jpg
+74,Mr. Sekandar Riaz Khan,Deputy Manager (IQAE),False,MS (Management Sciences),Sekandar.riaz@nu.edu.pk,Quality Enhancement Cell,135,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/5523-removebg-preview-2-235x271.png
+75,Mr. Azhar Masood,Librarian,False,Master of Library & Information Sciences (MLIS),azhar.masood@nu.edu.pk,Library,240,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/Azhar-Masood-235x300.png
+76,Mr. Muhammad Hussain,Assistant Officer (Library),False,BLIS (Bachelor in Library Information Science) AIOU,m.hussain@nu.edu.pk,Library,241,https://cfd.nu.edu.pk/wp-content/uploads/2021/03/9096-scaled-e1641884567124-235x300.jpg
+77,Mr. Ghulam Murtaza,Assistant Librarian,False,B.Sc(Library Science),murtaza.nadeem@nu.edu.pk,Library,241,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/1356-235x300.png
+78,Mr. M. Hassnain Ali,Assistant (Library),False,N/A,h.ali@nu.edu.pk,Library,164,https://cfd.nu.edu.pk/wp-content/uploads/2023/03/Hassnain-Ali-1-scaled-e1711946674441-235x300.jpg
+79,Mr. Ateeq Rafiq,Senior Technician,False,Diploma(after GIII.),atiq.rafiq@nu.edu.pk,Maintenance and Workshop,333,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/9209-scaled-e1641896984913-235x300.jpg
+80,Mr. Shahbaz Rasheed,Assistant,False,N/A,shahbaz.rasheed@nu.edu.pk,Maintenance and Workshop,333,https://cfd.nu.edu.pk/wp-content/uploads/2023/03/5133-235x300.jpg
+81,Mr. Aftab Alam,Electrician,False,N/A,aftab.alam@nu.edu.pk,Maintenance and Workshop,333,https://cfd.nu.edu.pk/wp-content/uploads/2023/09/Aftab-Alam-scaled-e1695443943215-235x300.jpg
+82,Mr. Qaiser Razzaq,Supervisor Maintenance,False,N/A,qaiser.razzaq@nu.edu.pk,Maintenance and Workshop,332,https://cfd.nu.edu.pk/wp-content/uploads/2021/03/5284-removebg-preview.png
+83,Mr. Hanif Shakir,Assistant Manager (Sports),False,M.A(Health and Physical Education),hanif.shakir@nu.edu.pk,Student Affairs,138,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/9438-1-scaled-e1641804985769-235x300.jpg
+84,Ms. Hira Riaz,Supervisor,False,N/A,hira.riaz@nu.edu.pk,Student Affairs,300,https://cfd.nu.edu.pk/wp-content/uploads/2023/03/IMG_1017-scaled-e1736318487917-235x300.jpg
+85,Mr. Abrar Hussain,Officer (Accounts),False,B.A,abrar.hussain@nu.edu.pk,Student Affairs,215,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/5581-scaled-e1641887425747-235x300.jpg
+86,Mr. Akhtar Hussain Ali,Officer (IT),False,"➢ MSc. – (2016-2018)
+National College of Business administration & Economics University (NCBA & E)",husain.ali@nu.edu.pk,Student Affairs,305,https://cfd.nu.edu.pk/wp-content/uploads/2021/10/6188....-e1641898794651-235x300.jpg
+87,Mr. Muhammad Asad,Officer (Academics),False,MPA (Master of Public Administration),m.asad@nu.edu.pk,Student Affairs,151,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/9227-235x300.jpg
+88,Mr. Syed Mohsin Raza,Assistant,False,N/A,mohsin.raza@nu.edu.pk,Student Affairs,151,https://cfd.nu.edu.pk/wp-content/uploads/2023/09/Mohsin-Raza-Naqvi-e1695443318596-235x300.jpeg
+89,Mr. Muhammad Shahid Younas,Manager (IT),False,"➢ MS CS – (2015)
+National Textile University",shahid.younas@nu.edu.pk,IT and Computing Labs,200,https://cfd.nu.edu.pk/wp-content/uploads/2021/10/WhatsApp-Image-2023-03-29-at-12.19.57-PM-235x300.jpeg
+90,Imtiaz Ahmed,Deputy Manager (IT),False,Master of Science in Computer Networking from University of Bedfordshire,imtiaz.ahmed@nu.edu.pk,IT and Computing Labs,201,https://cfd.nu.edu.pk/wp-content/uploads/2022/08/Imtiaz-Ahmad-Deputy-Manager-IT-240x300-removebg-preview-235x300.png
+91,Mr. Ammar Hanif,Assistant Manager (IT),False,BCS,ammar.hanif@nu.edu.pk,IT and Computing Labs,201,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/4863.jpg
+92,Mr. Maratib Ali,Junior Supervisor,False,B.Tech (Hons),Maratib.zain@nu.edu.pk,IT and Computing Labs,213,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/WhatsApp-Image-2024-12-04-at-12.46.32-PM-235x300.jpeg
+93,Mr. Omer Ali,Officer (System),False,BA,omer.ali@nu.edu.pk,IT and Computing Labs,206,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/9225-235x300.png
+94,Mr. Sajjad Hussain,Officer (Systems),False,M.SC(Computer Science (In Progress)),sajjad.husain@nu.edu.pk,IT and Computing Labs,207,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/Sajjad_Hussain-removebg-preview.png
+95,Mr. Farhan Hassan,Assistant Officer (Systems),False,BA,farhan.hassan@nu.edu.pk,IT and Computing Labs,203,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/Farhan-Hassan-e1657096118554-235x300.jpeg
+96,Mr. Farrukh Shehzad,Assistant Officer (Systems),False,B.Com,farrukh.shehzad@nu.edu.pk,IT and Computing Labs,205,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/5488-removebg-preview.png
+97,Mr. Hafiz Zeeshan Ul Hassan,Assistant Officer (Systems),False,I.Com,Zeeshan.hassan@nu.edu.pk,IT and Computing Labs,206,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/IMG_7787-scaled-e1693547548461-235x300.jpg
+98,Mr. Usman Ahmad,Assistant Officer (Lab),False,N/A,usman.ahmadit@nu.edu.pk,IT and Computing Labs,203,https://cfd.nu.edu.pk/wp-content/uploads/2022/01/5299-removebg-preview.png
+99,Mr. Ali Hassan,Assistant,False,N/A,ali.hassan@nu.edu.pk,IT and Computing Labs,204,https://cfd.nu.edu.pk/wp-content/uploads/2024/12/Ali-Hassan-1-scaled-e1733290465798-235x300.jpg
+100,Mr. Asad Ali,Assistant,False,N/A,ali.asad@nu.edu.pk,IT and Computing Labs,204,https://cfd.nu.edu.pk/wp-content/uploads/2024/12/Asad-Ali-235x300.jpg
+101,Mr. Haroon Haider,Assistant,False,N/A,haroon.haider@nu.edu.pk,IT and Computing Labs,204,https://cfd.nu.edu.pk/wp-content/uploads/2024/12/Haroon-Haider-235x300.jpg
+102,Mr. Javed Shafiq,Assistant,False,N/A,,IT and Computing Labs,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2022/08/Javed_Shafiq-removebg-preview-235x300.png
+103,Mr. Fraz Shazada,Electrician,False,N/A,fraz.shazada@nu.edu.pk,IT and Computing Labs,204,https://cfd.nu.edu.pk/wp-content/uploads/2022/02/6300-e1645426935334-209x300.png
+104,Dr. Muhammad Fayyaz,Associate Professor & HOD,True,Ph.D. (Computer Science),m.fayyaz@nu.edu.pk,Department of Computer Science,160,https://cfd.nu.edu.pk/wp-content/uploads/2022/01/Profile-Pic-235x300.jpg
+105,Dr. Muhammad Shahzad,Professor,True,Ph.D in Computing (RS & GIS) AIT,shahzad.sarfraz@nu.edu.pk,Department of Computer Science,102,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/PSX_20240307_194751-1-1-235x300.jpg
+106,Dr. Muhammad Umar,Associate Professor,True,PhD (Software Engineering),umar.aftab@nu.edu.pk,Department of Computer Science,198,https://cfd.nu.edu.pk/wp-content/uploads/2020/09/5994-1-e1678168158795-235x300.png
+107,Dr. Muhammad Usama,Associate Professor,False,Post-Doc,m.usama@nu.edu.pk,Department of Computer Science,311,https://cfd.nu.edu.pk/wp-content/uploads/2022/08/Dr-Usama-235x300.jpg
+108,Dr. Ammar Rafiq,Assistant Professor,False,N/A,ammar.rafiq@nu.edu.pk,Department of Computer Science,165,https://cfd.nu.edu.pk/wp-content/uploads/2025/02/Dr.-Ammar-Rafiq-235x300.jpeg
+109,Dr. Iqra Muhammad,Assistant Professor,False,Ph.D. (Computer Science),Iqra.Muhammad@nu.edu.pk,Department of Computer Science,361,https://cfd.nu.edu.pk/wp-content/uploads/2023/12/6742.1-235x300.jpg
+110,Dr. Rabia Maqsood,Assistant Professor,True,Ph.D. (Computer Science),rabia.maqsood@nu.edu.pk,Department of Computer Science,197,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/Dr.-Rabia-Maqsood-235x300.jpg
+111,Dr. Usman Ghous,Assistant Professor,False,Ph.D. (Computer Science) FAST–NUCES,usman.ghous@nu.edu.pk,Department of Computer Science,180,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/ghous-235x300.jpg
+112,Dr. Adeel Ashraf,Assistant Professor,False,PhD (CS),adeel.cheema@nu.edu.pk,Department of Computer Science,171,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/adeel-235x300.jpg
+113,Ms. Asma Sattar,Assistant Professor,False,M.S (Software Engineering),asma.sattar@nu.edu.pk,Department of Computer Science,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/asra-235x300.jpg
+114,Dr. Hafiz Tayyab,Assistant Professor,False,PhD (Computer Science),tayyeb.javed@nu.edu.pk,Department of Computer Science,125,https://cfd.nu.edu.pk/wp-content/uploads/2020/03/Mr.-Hafiz-Tayyab-Javed-Assistant-Professor-235x300.jpg
+115,Ms. Maria Maqsood,Assistant Professor,False,MS (Computer Science),maria.maqsood@nu.edu.pk,Department of Computer Science,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/maria-235x300.jpg
+116,Mr. Muhammad Atif,Assistant Professor,False,M.S(Computer Science),atif.muhammad@nu.edu.pk,Department of Computer Science,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/atif-235x300.jpg
+117,Mr. Rizwan Ul Haq,Assistant Professor,False,M.S(Computer Science),rizwan.haq@nu.edu.pk,Department of Computer Science,166,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/Mr.-Rizwan-ul-Haq-scaled-e1689926209735-235x300.jpg
+118,Mr. Ahmad Ali,Lecturer,False,M.S. (Information Technology),a.tabassam@nu.edu.pk,Department of Computer Science,170,https://cfd.nu.edu.pk/wp-content/uploads/2024/01/Ahmad-Ali-Tabassam_with-white-background_high-resolution-235x300.jpeg
+119,Mr. Ali Hamza,Lecturer,False,MS Computer Science,ali.Hamza@nu.edu.pk,Department of Computer Science,122,https://cfd.nu.edu.pk/wp-content/uploads/2023/08/IMG_6685-235x300.jpg
+120,Mr. Ali Raza,Lecturer,False,Bachelor’s in Computer Science BS(CS)  from FAST NUCES Islamabad campus in 2019,aliraza@nu.edu.pk,Department of Computer Science,272,https://cfd.nu.edu.pk/wp-content/uploads/2021/08/Mr.-Ali-Raza-scaled-e1689926748189-235x300.jpg
+121,Ms. Aliza Saeed,Lecturer,False,Masters of Science in Computer Science (Major: Software Engineering),aliza.saeed@nu.edu.pk,Department of Computer Science,168,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/5652-235x300.png
+122,Ms. Aqsa Younas,Lecturer,False,Completed MS (CS) from UAF,aqsa.younas@nu.edu.pk,Department of Computer Science,177,https://cfd.nu.edu.pk/wp-content/uploads/2021/09/IMG_7503-removebg-preview-1-e1689145379528-235x300.png
+123,Ms. Ayesha Liaqat,Lecturer,False,Master of Science in Computer Science,ayesha.liaqat@nu.edu.pk,Department of Computer Science,167,https://cfd.nu.edu.pk/wp-content/uploads/2020/10/Ayesha-Liaqat-235x300.jpg
+124,Ms. Faryal Saud,Lecturer,False,M.S(Computer Science),faryal.saud@nu.edu.pk,Department of Computer Science,178,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/Ms-Faryal-1-scaled-e1712130657183-235x300.jpg
+125,Ms. Juhinah Batool,Lecturer,False,MS (CS),Juhinah.Batool@nu.edu.pk,Department of Computer Science,132,https://cfd.nu.edu.pk/wp-content/uploads/2024/01/390A6698-235x300.jpg
+126,Ms. Kashaf Shakoor,Lecturer,False,BS Computer Science from NFC Institute of Engineering & Technology,kashaf.shakoor@nu.edu.pk,Department of Computer Science,172,https://cfd.nu.edu.pk/wp-content/uploads/2022/08/Ms-Kashaf-Shakoor-e1739953067608-235x300.jpeg
+127,Ms. Mahzaib Younas,Lecturer,False,M.S(Computer Science),mahzaib.Younas@nu.edu.pk,Department of Computer Science,177,https://cfd.nu.edu.pk/wp-content/uploads/2023/08/6687-235x300.jpg
+128,Mr. Masood Habib,Lecturer,False,"PhD (Computer Sciences) In Progress
+Dalian University of Technology",m.habib@nu.edu.pk,Department of Computer Science,190,https://cfd.nu.edu.pk/wp-content/uploads/2021/03/Masood-Habib-v2-1-235x300.jpeg
+129,Mr. Mazhar Hussain,Lecturer,False,M.S (Computer Science),mazhar.h@nu.edu.pk,Department of Computer Science,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/mma-235x300.jpg
+130,Ms. Momna Javaid,Lecturer,False,MS Computer Science,Momna.Javaid@nu.edu.pk,Department of Computer Science,159,https://cfd.nu.edu.pk/wp-content/uploads/2023/08/Momna-javed-scaled-e1692359459274-235x300.jpg
+131,Mr. Mughees Ismail,Lecturer,False,Master of Science (Computer Science),mughees.ismail@nu.edu.pk,Department of Computer Science,292,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/P2-235x300.jpg
+132,Mr. Muhammad Adeel,Lecturer,False,MS Computer Science,m.adeel@nu.edu.pk,Department of Computer Science,180,https://cfd.nu.edu.pk/wp-content/uploads/2023/08/IMG_6685-2-235x300.jpg
+133,Mr. Muhammad Hannan,Lecturer,False,MS (Computer Science),hannan.farooq@nu.edu.pk,Department of Computer Science,176,https://cfd.nu.edu.pk/wp-content/uploads/2020/09/WhatsApp_Image_2023-10-17_at_16.09.19_51d0d4a4-removebg-preview-235x300.png
+134,Mr. Muhammad Haseeb,Lecturer,False,Masters in Computer Science,haseeb.arshad@nu.edu.pk,Department of Computer Science,149,https://cfd.nu.edu.pk/wp-content/uploads/2021/09/Haseeb-Arshad-e1689677992262-235x300.png
+135,Mr. Muhammad Shahbaz,Lecturer,False,MS Computer Science from University of Gujrat,Shahbaz.Ayyaz@nu.edu.pk,Department of Computer Science,176,https://cfd.nu.edu.pk/wp-content/uploads/2022/08/IMG_1367-scaled-e1660978839644-235x300.jpg
+136,Mr. Muhammad Suffian,Lecturer,False,MS (CS),m.suffian@nu.edu.pk,Department of Computer Science,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2020/03/Mr.-Muhammad-Suffian-Lecturer-235x300.jpg
+137,Mr. Muiz Qadir,Lecturer,False,Masters in Computer Science,muiz.qadir@nu.edu.pk,Department of Computer Science,219,https://cfd.nu.edu.pk/wp-content/uploads/2021/08/Mr.-Muiz-Qadir-scaled-e1689924430683-235x300.jpg
+138,Ms. Nasreen Akhtar,Lecturer,False,M.S(Computer Science),nasreen.akhtar@nu.edu.pk,Department of Computer Science,167,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/nasreeen-235x300.jpg
+139,Ms. Saba Aslam,Lecturer,False,MPhil in Computer Science (Major: Computer Science),saba.aslam@nu.edu.pk,Department of Computer Science,177,https://cfd.nu.edu.pk/wp-content/uploads/2021/02/ID-pic-with-white-background-235x300.jpg
+140,Ms. Saba Naseem,Lecturer,False,Master of Science in Computer Science (Major: NLP),saba.naseem@nu.edu.pk,Department of Computer Science,169,https://cfd.nu.edu.pk/wp-content/uploads/2022/02/Ms.-Saba-Naseem-scaled-e1689925989566-235x300.jpg
+141,Ms. Samia Mujahid,Lecturer,False,MS (Computer Science),Samia.Mujahid@nu.edu.pk,Department of Computer Science,283,https://cfd.nu.edu.pk/wp-content/uploads/2024/01/6766-235x300.jpg
+142,Mr. Saqib Hayat,Lecturer,False,M.S. Computer Science,saqib.hayat@nu.edu.pk,Department of Computer Science,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/saqib-235x300.jpg
+143,Ms. Sumaira Mustafa,Lecturer,False,Masters of Science in Computer Science (Major: Computer Networks),sumaira.mustafa@nu.edu.pk,Department of Computer Science,168,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/5653-1-e1678358103205-235x300.jpg
+144,Ms. Wania Fatima,Lecturer,False,Masters of Science in Computer Science,wania.fatima@nu.edu.pk,Department of Computer Science,167,https://cfd.nu.edu.pk/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-08-at-12.31.59-PM-235x300.jpeg
+145,Ms. Amna Waheed,Instructor,False,MS (Computer Science),Amna.Waheed@nu.edu.pk,Department of Computer Science,304,https://cfd.nu.edu.pk/wp-content/uploads/2024/01/Ms-Amna-Waheed-235x300.jpg
+146,Ms. Areeba Waseem,Instructor,False,BS Computer Science,Areeba.Waseem@nu.edu.pk,Department of Computer Science,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2023/08/Areeba-Waseem-scaled-e1692359315131-235x300.jpg
+147,Ms. Gul E,Instructor,False,Bachelors of Science in Electrical Engineering (Specialization: Computer Engineering) 2023,Gul.Zahra@nu.edu.pk,Department of Computer Science,301,https://cfd.nu.edu.pk/wp-content/uploads/2024/01/Zahra-6836-235x300.jpg
+148,Mr. Hassan Ahmed,Instructor,False,MS (Computer Science ) University of Wah,hassan.ahmed@nu.edu.pk,Department of Computer Science,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2024/08/Mr-Hassan-scaled-e1723718583207-235x300.jpg
+149,Ms. Maham Saleem,Instructor,False,MS (Computer Science),Maham.Saleem@nu.edu.pk,Department of Computer Science,572,https://cfd.nu.edu.pk/wp-content/uploads/2024/01/Ms-Maham-Saleem-235x300.jpg
+150,Ms. Rabia Anwar,Instructor,False,N/A,rabia.anwar@nu.edu.pk,Department of Computer Science,283,https://cfd.nu.edu.pk/wp-content/uploads/2024/01/Ms-Rabia-Anwar-235x300.jpg
+151,Mr. Rana Mobeen,Instructor,False,BS Computer Engineering,mubeen.tariq@nu.edu.pk,Department of Computer Science,324,https://cfd.nu.edu.pk/wp-content/uploads/2022/08/IMG_1369-scaled-e1660979151429-235x300.jpg
+152,Mr. Talha Arif,Instructor,False,M.S(Computer Science),m.talha@nu.edu.pk,Department of Computer Science,304,https://cfd.nu.edu.pk/wp-content/uploads/2024/08/Untitled-3-copy-235x300.jpg
+153,Dr. M. Shoaib,Professor & HOD,True,Post-Doc (Re-configuration of Islanded Power Systems/Microgrids),shoaib.khalid@nu.edu.pk,Department of Electrical Engineering,140,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/Dr.-Muhammad-Shoaib-Khalid-Associate-Professor-235x300.jpg
+154,Dr. Arslan Ahmed,Associate Professor,True,Ph.D. Electrical Engineering (Control Systems),arslan.amin@nu.edu.pk,Department of Electrical Engineering,148,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/5728-235x300.jpg
+155,Dr. Adil Zulfiqar,Assistant Professor,True,PhD (Electronic Engineering) City University of Hong Kong (Hong Kong),adil.zulfiqar@nu.edu.pk,Department of Electrical Engineering,143,https://cfd.nu.edu.pk/wp-content/uploads/2020/02/5896-removebg-preview-235x300.png
+156,Dr. Muhammad Adnan,Assistant Professor,True,PhD (Electrical Engineering),m.adnan@nu.edu.pk,Department of Electrical Engineering,132,https://cfd.nu.edu.pk/wp-content/uploads/2020/07/5894-removebg-preview-235x300.png
+157,Dr. Shahzad,Assistant Professor,False,N/A,dr.shahzad@nu.edu.pk,Department of Electrical Engineering,130,https://cfd.nu.edu.pk/wp-content/uploads/2025/01/passportpic25-235x300.png
+158,Mr. Amir Zahoor,Assistant Professor,False,M.S(Electrical Engineering),amir.zahoor@nu.edu.pk,Department of Electrical Engineering,150,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/9407-removebg-preview-235x283.png
+159,Mr. Habib Ullah,Assistant Professor,False,M.Sc(Communication Engineering),habib.wattoo@nu.edu.pk,Department of Electrical Engineering,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/9095.jpg
+160,Mr. M. Irfan,Assistant Professor,False,M.S(Signal Processing & Wave Propagation),Irfan.ishaq@nu.edu.pk,Department of Electrical Engineering,144,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/5269-235x300.jpg
+161,Mr. Ameer Hamza,Lecturer,False,M. Sc(Mechanical Engineering ),ameer.hamza@nu.edu.pk,Department of Electrical Engineering,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2019/10/Ameer-Hamza-235x300.jpg
+162,Ms. Amna Saghir,Lecturer,False,N/A,amna.saghir@nu.edu.pk,Department of Electrical Engineering,301,https://cfd.nu.edu.pk/wp-content/uploads/2024/08/New-Doc-2024-07-21-14.32.32_1-235x300.jpg
+163,Ms. Bakhtawar Saeed,Lecturer,False,M.Sc (Computer Engineering) UET Taxila 2024,bakhtawar.saeed@nu.edu.pk,Department of Electrical Engineering,301,https://cfd.nu.edu.pk/wp-content/uploads/2024/08/Ms-Bakhtawar-1-scaled-e1723718112200-235x300.jpg
+164,Mr. M. Abdullah,Lecturer,False,M.S(Electrical( Control Systems )),muhammad.abdullah@nu.edu.pk,Department of Electrical Engineering,145,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/9112-removebg-preview-235x300.png
+165,Mr. Muhammad Faisal,Lecturer,False,MS Electrical Engineering,faisal.hayat@nu.edu.pk,Department of Electrical Engineering,328,https://cfd.nu.edu.pk/wp-content/uploads/2022/01/Faisal-Hayat-e1692771089131-235x300.png
+166,Mr. Sajid Iqbal,Lecturer,False,M.Sc( Electrical Engineering),iqbal.sajid@nu.edu.pk,Department of Electrical Engineering,133,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/4713-235x300.jpg
+167,Ms. Ayesha Nadeem,Lab Engineer,False,B.S(Electrical Engineering),ayesha.nadeem@nu.edu.pk,Department of Electrical Engineering,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2024/08/Ms-Aisha-1-235x300.jpg
+168,Mr. Hafiz Muhammad,Lab Engineer,False,N/A,m.qasim@nu.edu.pk,Department of Electrical Engineering,340,https://cfd.nu.edu.pk/wp-content/uploads/2024/08/Hafiz-Muhammad-Qasim-235x300.jpg
+169,Dr. Mushtaq Ahmad,Associate Professor & HOD,True,PhD. (Mathematics),mushtaq.sial@nu.edu.pk,Department of Sciences & Humanities,270,https://cfd.nu.edu.pk/wp-content/uploads/2021/06/Dr.-Mushtaq-Sial-Assistant-Professor-235x300.jpg
+170,Dr. Haris Khurram,Assistant Professor,True,Ph.D. (Statistics),haris.khurram@nu.edu.pk,Department of Sciences & Humanities,280,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/Dr.-Haris-Khurram-scaled-e1740120440305-235x300.jpg
+171,Mr. Amjad Hussain,Assistant Professor,False,M.Phil(Mathematics),amjad.haider@nu.edu.pk,Department of Sciences & Humanities,193,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/amjad-235x300.jpg
+172,Dr. Arfan Shahzad,Assistant Professor,False,Ph.D (Mathematics) Government College University Faisalabad,arfan.shahzad@nu.edu.pk,Department of Sciences & Humanities,277,https://cfd.nu.edu.pk/wp-content/uploads/2021/06/Mr-Arfan-Shahzad-Assistant-Professor-235x300.jpg
+173,Mr. M. Nouman,Assistant Professor,False,MBA,nouman.iftikhar@nu.edu.pk,Department of Sciences & Humanities,196,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/4925-235x300.png
+174,Ms. Munaza Akhter,Assistant Professor,False,M.Phil(English),munaza.akhter@nu.edu.pk,Department of Sciences & Humanities,275,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/Munaza-Akhter-1-1-235x300.jpg
+175,Ms. Anoosha Rehan,Lecturer,False,Master’s  (Clinical Psychology),anoosha.rehan@nu.edu.pk,Department of Sciences & Humanities,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2024/08/6940-scaled-e1723716512860-235x300.jpg
+176,Ms. Ghilmana Sarmad,Lecturer,False,M.S(Mathematics),ghilmana.sarmad@nu.edu.pk,Department of Sciences & Humanities,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/gilmana-233x300-removebg-preview.png
+177,Ms. Hadiqa Iqbal,Lecturer,False,N/A,hadiqa.iqbal@nu.edu.pk,Department of Sciences & Humanities,281,https://cfd.nu.edu.pk/wp-content/uploads/2025/01/c40eebce-67b1-41a3-840d-cb9092b0a713-235x300.jpeg
+178,Mr. Hassan Ali,Lecturer,False,M.Phil. Sociology,hassan.ali@nu.edu.pk,Department of Sciences & Humanities,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2025/01/Screenshot_2025-01-06-12-17-59-33_6012fa4d4ddec268fc5c7112cbb265e7-e1736765317126-235x300.jpg
+179,Mr. Hayat Ali,Lecturer,False,MS Mathematics (2018),hayat.ali@nu.edu.pk,Department of Sciences & Humanities,175,https://cfd.nu.edu.pk/wp-content/uploads/2019/10/5846-removebg-preview-235x300.png
+180,Mr. Khalid Mehmood,Lecturer,False,M.Phil(English Literature),Khalid.Anjum@nu.edu.pk,Department of Sciences & Humanities,259,https://cfd.nu.edu.pk/wp-content/uploads/2023/03/02-1-235x300.jpg
+181,Mr. Muhammad Iqbal,Lecturer,False,M.Phil. (Linguistics),iqbal.m@nu.edu.pk,Department of Sciences & Humanities,282,https://cfd.nu.edu.pk/wp-content/uploads/2021/02/IMG_8576-scaled-e1696404108172-235x300.jpg
+182,Mr. Muhammad Munawar,Lecturer,False,MS(Math),m.munawar@nu.edu.pk,Department of Sciences & Humanities,283,https://cfd.nu.edu.pk/wp-content/uploads/2023/03/Muhammad-Munawar-235x300.jpg
+183,Mr. Muhammad Shoaib,Lecturer,False,MS(Math),m.shoaib@nu.edu.pk,Department of Sciences & Humanities,283,https://cfd.nu.edu.pk/wp-content/uploads/2023/03/Muhammad-Shoaib-235x300.jpg
+184,Ms. Rida Akram,Lecturer,False,M.Phil. from Riphah International University (2017-2019),rida.akram@nu.edu.pk,Department of Sciences & Humanities,282,https://cfd.nu.edu.pk/wp-content/uploads/2022/01/6278-1-scaled-e1695639584543-235x300.jpg
+185,Ms. Rimsha Bashir,Lecturer,False,MPhil. (Physics) 2018,rimsha.bashir@nu.edu.pk,Department of Sciences & Humanities,282,https://cfd.nu.edu.pk/wp-content/uploads/2022/01/Rimsha-Bashir-Awan-e1643001886547-235x300.jpg
+186,Mr. Rizwan Ullah,Lecturer,False,"Master in Arts (Islamic Studies) Islamic University Bahawalpur (1998)
+Bachelor in Arts",rizwan.ullah@nu.edu.pk,Department of Sciences & Humanities,260,https://cfd.nu.edu.pk/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-23-at-12.42.28-235x300.jpeg
+187,Ms. Sadia Ashfaq,Lecturer,False,English,Sadia.ashfaq@nu.edu.pk,Department of Sciences & Humanities,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2019/09/SADIA-235x300.jpg
+188,Ms. Tehreem Wali,Lecturer,False,N/A,wali.tahreem@nu.edu.pk,Department of Sciences & Humanities,281,https://cfd.nu.edu.pk/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-07-at-3.19.03-PM-e1736245837975-235x300.jpeg
+189,Ms. Zainab Mubarik,Lecturer,False,MS(Applied Linguistics),zainab.mubarik@nu.edu.pk,Department of Sciences & Humanities,281,https://cfd.nu.edu.pk/wp-content/uploads/2023/03/Zainab-Mubarik-235x300.jpg
+190,Ms. Zartash Naqvi,Lecturer,False,MS in Clinical Psychology from Government College University Faisalabad (2014-2016),zartash.naqvi@nu.edu.pk,Department of Sciences & Humanities,N/A,https://cfd.nu.edu.pk/wp-content/uploads/2022/08/IMG_1376-1-235x300.jpg
+191,Mr. Abdul Rehman,Instructor,False,N/A,rehman.abdul@nu.edu.pk,Department of Sciences & Humanities,572,https://cfd.nu.edu.pk/wp-content/uploads/2025/01/IMG_1015-scaled-e1736313997405-235x300.jpg
+192,Mr. Muhammad Hasnain,Instructor,False,BS(English Literature and Linguistics),hasnain.khan@nu.edu.pk,Department of Sciences & Humanities,280,https://cfd.nu.edu.pk/wp-content/uploads/2023/03/Muhammad-Hasnain-Khan-235x300.jpg
+193,Mr. Muhammad Usama,Instructor,False,BS (English Literature and Linguistics),usama.ashfaq@nu.edu.pk,Department of Sciences & Humanities,280,https://cfd.nu.edu.pk/wp-content/uploads/2023/03/Muhammad-Usama-235x300.jpg
